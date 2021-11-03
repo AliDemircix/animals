@@ -2,3 +2,5 @@ Animals in the ZOO
 1- Elephant.
 2- Tiger.
 3- Horse.
+4- Bear.
+5- Dog.
